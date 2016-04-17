@@ -1,4 +1,4 @@
-fc
+fc gh
 ========================================================
 author: 
 date: 
@@ -6,23 +6,15 @@ date:
 First Slide
 ========================================================
 
-For more details on authoring R presentations click the
-**Help** button on the toolbar.
+gh gh gh 
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-Slide With Code
+Slide With no Code
 ========================================================
-
-```{r}
-summary(cars)
-```
+gh gh gh 
 
 Slide With Plot
 ========================================================
 
 ```{r, echo=FALSE}
-plot(cars)
+plot(1:10)
 ```
